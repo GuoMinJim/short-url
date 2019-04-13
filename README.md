@@ -5,5 +5,5 @@
 # 如何运行 
 ### 导入本地IDEA集成环境 启动ShorturlApplication
 
-# 使用相关技术
+# 相关使用技术
 ### JAVA SSM SPRING BOOT
